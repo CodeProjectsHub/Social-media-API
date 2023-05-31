@@ -26,6 +26,16 @@ Routes/endpoints and Payloads:
 
 ![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/ceebfade-fc3e-46d9-b26b-478276903c4d)
 
+4) Adding a new blog for given user - http://localhost:8080/api/blogs/add
+
+![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/1cbf0112-faf8-4ad7-ac48-88552efb3c43)
+
+5) Update blog by id - http://localhost:8080/api/blogs/update/6473a979d3f60546f3aa9255
+
+![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/c50f4bee-9e42-47ae-8a60-caca88ff07a9)
+
+
+
 
 
 
