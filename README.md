@@ -47,7 +47,7 @@ Routes/endpoints and Payloads:
 
 ![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/d920ca9e-392d-4fdb-b63e-58c29ee8a2e5)
 
-9) Delete bog by blog id - http://localhost:8080/api/blogs/id
+9) Delete blog by blog id - http://localhost:8080/api/blogs/id
 
 ![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/12477916-f633-4b2d-ac77-eea871ada159)
 
