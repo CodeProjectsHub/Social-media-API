@@ -28,11 +28,29 @@ Routes/endpoints and Payloads:
 
 4) Adding a new blog for given user - http://localhost:8080/api/blogs/add
 
-![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/1cbf0112-faf8-4ad7-ac48-88552efb3c43)
+![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/5105934e-7c4f-465e-8b51-3ef9e2515500)
 
-5) Update blog by id - http://localhost:8080/api/blogs/update/6473a979d3f60546f3aa9255
+
+5) Update blog by id (blog id) - http://localhost:8080/api/blogs/update/id
 
 ![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/c50f4bee-9e42-47ae-8a60-caca88ff07a9)
+
+6) Get blog by id (blog id) - http://localhost:8080/api/blogs/id
+
+ ![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/8ec671c4-848a-4959-953d-c8ba7ea6e435)
+ 
+ 7) Get all blogs - http://localhost:8080/api/blogs/
+
+![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/b85a2a05-7919-4284-8550-c4ea569ddadf)
+
+8) Get all blogs of user by user id - http://localhost:8080/api/blogs/user/id
+
+![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/d920ca9e-392d-4fdb-b63e-58c29ee8a2e5)
+
+9) Delete bog by blog id - http://localhost:8080/api/blogs/id
+
+![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/12477916-f633-4b2d-ac77-eea871ada159)
+
 
 
 
