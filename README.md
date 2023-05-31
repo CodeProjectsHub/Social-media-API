@@ -18,5 +18,14 @@ Routes/endpoints and Payloads:
 
 ![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/0e8beb9b-635f-4612-abe0-4df220811834)
 
+2) Login user - http://localhost:8080/api/user/login
+
+![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/8928e668-0614-4251-b424-cfd259ae5763)
+
+3) Get all users from user collection - http://localhost:8080/api/user/
+
+![image](https://github.com/CodeProjectsHub/Social-media-API/assets/126147374/ceebfade-fc3e-46d9-b26b-478276903c4d)
+
+
 
 
